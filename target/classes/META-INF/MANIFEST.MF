@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Praveen Kosgi
+Build-Jdk: 11.0.2
+Implementation-Title: SpringBootApacheKafka
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javasampleapproach.apachekafka
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootApac
+ heKafka/
+Created-By: Maven Integration for Eclipse
+
